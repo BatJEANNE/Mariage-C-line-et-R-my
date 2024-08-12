@@ -1,0 +1,11 @@
+body{
+	background-color: black;
+ width: 100px;   /* Largeur de la page = 100% de la largeur de la fenêtre */
+            height: 100px  /* Hauteur de la page = 100% de la hauteur de la fenêtre */
+            margin: 20px;      /* Supprime les marges par défaut */
+            padding: 20px;     /* Supprime les paddings par défaut */
+            box-sizing: border-box;  /* Inclut les bordures et les paddings dans la taille */
+        }
+
+
+
